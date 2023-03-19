@@ -2,6 +2,7 @@ branch 1
 branch1
 branch1
 change1
+change2
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
